@@ -6,10 +6,10 @@
  - https://arxiv.org/pdf/1906.01529.pdf  
 
 ## Slides (Public)
- - https://github.com/poornaprag/deep_learning/blob/master/GANs_Short_Story.pdf?raw=true  
+ - https://github.com/poornaprag/deep-learning/blob/master/ShortStoryAssignment/GANs_Short_Story.pdf  
 
 ## Video (Public)
- - https://github.com/poornaprag/deep_learning/blob/master/GANs_Short_Story.mp4?raw=true  
+ - https://github.com/poornaprag/deep-learning/blob/master/ShortStoryAssignment/GANs_Short_Story.mp4?raw=true  
  
  
 ------------------------------
